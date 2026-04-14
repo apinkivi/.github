@@ -6,7 +6,6 @@ Jos mieluummin haluaisit kehittäjäksi meille, niin lähetä [hakemus](mailto:c
 
 <details>
 <summary><b>Click here for English</b></summary>
-
 We develop software and act as an accounting firm. Get a quote right away on our [website](https://apinkivi.fi).
 
 If you would rather become a developer for us, please submit an [application](mailto:cv@apinkivi.fi).

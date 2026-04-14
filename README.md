@@ -1,2 +1,0 @@
-# .github
-Apinkivi Oy
